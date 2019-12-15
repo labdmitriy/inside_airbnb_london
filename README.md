@@ -16,9 +16,6 @@ There is a relationship between different guest review score types and several A
 ## Prerequisites
 Code is reproducible with altair version 3.3.0
 
-## Notes
-Table of Contents links are not working on GitHub repository directly, they can be used after cloning repository locally or displaying Jupyter notebook via [Jupyter NBViewer service](https://nbviewer.jupyter.org/github/labdmitriy/inside_airbnb_london/blob/master/Inside_Airbnb_London.ipynb)
-
 ## File structure
 - Inside_Airbnb_London.ipynb 
     - Jupyter notebook with fully reproducible code for analysis
@@ -28,6 +25,9 @@ Table of Contents links are not working on GitHub repository directly, they can 
     - File with repository description
 - .gitignore
     - File with ignored files/directories 
+    
+## Notes
+Table of Contents links are not working on GitHub repository directly, they can be used after cloning repository locally or displaying Jupyter notebook via [Jupyter NBViewer service](https://nbviewer.jupyter.org/github/labdmitriy/inside_airbnb_london/blob/master/Inside_Airbnb_London.ipynb)
 
 ## License
 This project is licensed under the terms of the MIT license
