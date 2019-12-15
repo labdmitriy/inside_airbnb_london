@@ -8,6 +8,8 @@ The reputation of the service can be disrupted by [fraud](https://www.vice.com/e
 
 One hypothesis that we have is that guest review scores can be reliable factor to evaluate current status of attractiveness of the service in general, and increasing hosts reputation can be the reason for service reputation improvement.
 
+The main goal of this analysis is trying to find any patterns and relationship of guest review scores between themselves and with different aspects of hosts and listings from Airbnb in London.
+
 ## Results
 There is a relationship between different guest review score types and several Airbnb host/listing/neighbourhood properties in London, which can be used for further analysis and decisions how to improve hosts service and company's reputation in general
 
